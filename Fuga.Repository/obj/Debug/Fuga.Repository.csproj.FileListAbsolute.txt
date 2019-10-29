@@ -1,0 +1,42 @@
+C:\Chathuranga DOC\School\PanSoftware\Pansoftware.Repository\bin\Debug\Pansoftware.Repository.dll.config
+C:\Chathuranga DOC\School\PanSoftware\Pansoftware.Repository\bin\Debug\Pansoftware.Repository.dll
+C:\Chathuranga DOC\School\PanSoftware\Pansoftware.Repository\bin\Debug\Pansoftware.Repository.pdb
+C:\Chathuranga DOC\School\PanSoftware\Pansoftware.Repository\bin\Debug\EntityFramework.dll
+C:\Chathuranga DOC\School\PanSoftware\Pansoftware.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Chathuranga DOC\School\PanSoftware\Pansoftware.Repository\bin\Debug\Pansoftware.Model.dll
+C:\Chathuranga DOC\School\PanSoftware\Pansoftware.Repository\bin\Debug\Pansoftware.Model.pdb
+C:\Chathuranga DOC\School\PanSoftware\Pansoftware.Repository\bin\Debug\EntityFramework.xml
+C:\Chathuranga DOC\School\PanSoftware\Pansoftware.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Chathuranga DOC\School\PanSoftware\Pansoftware.Repository\obj\Debug\Fuga.Repository.csprojAssemblyReference.cache
+C:\Chathuranga DOC\School\PanSoftware\Pansoftware.Repository\obj\Debug\Fuga.Repository.csproj.CoreCompileInputs.cache
+C:\Chathuranga DOC\School\PanSoftware\Pansoftware.Repository\obj\Debug\Fuga.Repository.csproj.CopyComplete
+C:\Chathuranga DOC\School\PanSoftware\Pansoftware.Repository\obj\Debug\Pansoftware.Repository.dll
+C:\Chathuranga DOC\School\PanSoftware\Pansoftware.Repository\obj\Debug\Pansoftware.Repository.pdb
+C:\Chathuranga DOC\School\PanSoftware\Fuga.Repository\bin\Debug\Pansoftware.Repository.dll.config
+C:\Chathuranga DOC\School\PanSoftware\Fuga.Repository\bin\Debug\Pansoftware.Repository.dll
+C:\Chathuranga DOC\School\PanSoftware\Fuga.Repository\bin\Debug\Pansoftware.Repository.pdb
+C:\Chathuranga DOC\School\PanSoftware\Fuga.Repository\bin\Debug\EntityFramework.dll
+C:\Chathuranga DOC\School\PanSoftware\Fuga.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Chathuranga DOC\School\PanSoftware\Fuga.Repository\bin\Debug\Pansoftware.Model.dll
+C:\Chathuranga DOC\School\PanSoftware\Fuga.Repository\bin\Debug\Pansoftware.Model.pdb
+C:\Chathuranga DOC\School\PanSoftware\Fuga.Repository\bin\Debug\EntityFramework.xml
+C:\Chathuranga DOC\School\PanSoftware\Fuga.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Chathuranga DOC\School\PanSoftware\Fuga.Repository\obj\Debug\Fuga.Repository.csprojAssemblyReference.cache
+C:\Chathuranga DOC\School\PanSoftware\Fuga.Repository\obj\Debug\Fuga.Repository.csproj.CoreCompileInputs.cache
+C:\Chathuranga DOC\School\PanSoftware\Fuga.Repository\obj\Debug\Fuga.Repository.csproj.CopyComplete
+C:\Chathuranga DOC\School\PanSoftware\Fuga.Repository\obj\Debug\Pansoftware.Repository.dll
+C:\Chathuranga DOC\School\PanSoftware\Fuga.Repository\obj\Debug\Pansoftware.Repository.pdb
+C:\Users\chathurangam\Downloads\ApplicationRepository-master\ApplicationRepository-master\Fuga.Repository\bin\Debug\Fuga.Repository.dll.config
+C:\Users\chathurangam\Downloads\ApplicationRepository-master\ApplicationRepository-master\Fuga.Repository\bin\Debug\Fuga.Repository.dll
+C:\Users\chathurangam\Downloads\ApplicationRepository-master\ApplicationRepository-master\Fuga.Repository\bin\Debug\Fuga.Repository.pdb
+C:\Users\chathurangam\Downloads\ApplicationRepository-master\ApplicationRepository-master\Fuga.Repository\bin\Debug\EntityFramework.dll
+C:\Users\chathurangam\Downloads\ApplicationRepository-master\ApplicationRepository-master\Fuga.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\chathurangam\Downloads\ApplicationRepository-master\ApplicationRepository-master\Fuga.Repository\bin\Debug\Fuga.Model.dll
+C:\Users\chathurangam\Downloads\ApplicationRepository-master\ApplicationRepository-master\Fuga.Repository\bin\Debug\Fuga.Model.pdb
+C:\Users\chathurangam\Downloads\ApplicationRepository-master\ApplicationRepository-master\Fuga.Repository\bin\Debug\EntityFramework.xml
+C:\Users\chathurangam\Downloads\ApplicationRepository-master\ApplicationRepository-master\Fuga.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\chathurangam\Downloads\ApplicationRepository-master\ApplicationRepository-master\Fuga.Repository\obj\Debug\Fuga.Repository.csprojAssemblyReference.cache
+C:\Users\chathurangam\Downloads\ApplicationRepository-master\ApplicationRepository-master\Fuga.Repository\obj\Debug\Fuga.Repository.csproj.CoreCompileInputs.cache
+C:\Users\chathurangam\Downloads\ApplicationRepository-master\ApplicationRepository-master\Fuga.Repository\obj\Debug\Fuga.Repository.csproj.CopyComplete
+C:\Users\chathurangam\Downloads\ApplicationRepository-master\ApplicationRepository-master\Fuga.Repository\obj\Debug\Fuga.Repository.dll
+C:\Users\chathurangam\Downloads\ApplicationRepository-master\ApplicationRepository-master\Fuga.Repository\obj\Debug\Fuga.Repository.pdb

@@ -1,0 +1,16 @@
+C:\Chathuranga DOC\School\PanSoftware\Pansoftware.Model\bin\Debug\Pansoftware.Model.dll
+C:\Chathuranga DOC\School\PanSoftware\Pansoftware.Model\bin\Debug\Pansoftware.Model.pdb
+C:\Chathuranga DOC\School\PanSoftware\Pansoftware.Model\obj\Debug\Fuga.Model.csproj.CoreCompileInputs.cache
+C:\Chathuranga DOC\School\PanSoftware\Pansoftware.Model\obj\Debug\Pansoftware.Model.dll
+C:\Chathuranga DOC\School\PanSoftware\Pansoftware.Model\obj\Debug\Pansoftware.Model.pdb
+C:\Chathuranga DOC\School\PanSoftware\Fuga.Model\bin\Debug\Pansoftware.Model.dll
+C:\Chathuranga DOC\School\PanSoftware\Fuga.Model\bin\Debug\Pansoftware.Model.pdb
+C:\Chathuranga DOC\School\PanSoftware\Fuga.Model\obj\Debug\Fuga.Model.csprojAssemblyReference.cache
+C:\Chathuranga DOC\School\PanSoftware\Fuga.Model\obj\Debug\Fuga.Model.csproj.CoreCompileInputs.cache
+C:\Chathuranga DOC\School\PanSoftware\Fuga.Model\obj\Debug\Pansoftware.Model.dll
+C:\Chathuranga DOC\School\PanSoftware\Fuga.Model\obj\Debug\Pansoftware.Model.pdb
+C:\Users\chathurangam\Downloads\ApplicationRepository-master\ApplicationRepository-master\Fuga.Model\bin\Debug\Fuga.Model.dll
+C:\Users\chathurangam\Downloads\ApplicationRepository-master\ApplicationRepository-master\Fuga.Model\bin\Debug\Fuga.Model.pdb
+C:\Users\chathurangam\Downloads\ApplicationRepository-master\ApplicationRepository-master\Fuga.Model\obj\Debug\Fuga.Model.csproj.CoreCompileInputs.cache
+C:\Users\chathurangam\Downloads\ApplicationRepository-master\ApplicationRepository-master\Fuga.Model\obj\Debug\Fuga.Model.dll
+C:\Users\chathurangam\Downloads\ApplicationRepository-master\ApplicationRepository-master\Fuga.Model\obj\Debug\Fuga.Model.pdb
